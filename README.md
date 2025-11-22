@@ -11,7 +11,7 @@ It demonstrates an end-to-end workflow from **data collection → backtesting �
 
 ---
 
-# 🔍 Project Overview
+#  Project Overview
 
 This repo contains:
 
@@ -41,7 +41,7 @@ A multi-page dashboard analyzing:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Financial Markets Analysis/
@@ -85,7 +85,7 @@ Financial Markets Analysis/
 
 ---
 
-# 🚀 Running the Streamlit App
+#  Running the Streamlit App
 
 ### 1. Install dependencies
 From project root:
@@ -110,7 +110,7 @@ streamlit run streamlit_app/app.py
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 Located in `powerbi/`.
 
@@ -134,7 +134,7 @@ Full breakdown of the strongest-performing strategy
 
 ---
 
-# 💻 Streamlit App Preview
+#  Streamlit App Preview
 
 ### Controls & Inputs
 ![Streamlit Controls](docs/screenshots/streamlit_controls.png)
@@ -153,7 +153,7 @@ Full breakdown of the strongest-performing strategy
 
 ---
 
-# ⚙️  Methodology
+#   Methodology
 
 A full explanation of the workflow (data acquisition, preprocessing, RSI logic, strategy grid, regime tagging, metrics and outputs) is in:
 
@@ -161,7 +161,7 @@ A full explanation of the workflow (data acquisition, preprocessing, RSI logic, 
 
 ---
 
-# 🧭 Future Development Roadmap
+#  Future Development Roadmap
 
 Planned upgrades include:
 
@@ -175,11 +175,11 @@ Planned upgrades include:
 
 See the full document:
 
-📄 **`docs/ROADMAP.md`**
+ **`docs/ROADMAP.md`**
 
 ---
 
-# 🧠 Key Insights
+#  Key Insights
 
 Across all experiments:
 
@@ -193,13 +193,13 @@ The analysis provides a base for next steps toward automation or AI signal gener
 
 ---
 
-# 📝 License
+#  License
 
 MIT License © 2025
 
 ---
 
-# 📬 Contact
+#  Contact
 
 - GitHub: *DannyPartington*  
 - Email: *d_partington@hotmail.com*  
