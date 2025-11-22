@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.env
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*
+!data_sample/*
+
+# Secrets
+secret*.json
+api_keys*.txt
